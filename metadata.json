@@ -1,0 +1,7 @@
+{
+  "name": "NearChat",
+  "description": "Omegle-style random video and text chat platform matching strangers strictly within a 30 km radius.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
